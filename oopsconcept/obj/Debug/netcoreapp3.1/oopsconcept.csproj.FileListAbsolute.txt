@@ -1,0 +1,11 @@
+/Users/mac/CSharpProject/oopsconcept/oopsconcept/bin/Debug/netcoreapp3.1/oopsconcept
+/Users/mac/CSharpProject/oopsconcept/oopsconcept/bin/Debug/netcoreapp3.1/oopsconcept.deps.json
+/Users/mac/CSharpProject/oopsconcept/oopsconcept/bin/Debug/netcoreapp3.1/oopsconcept.runtimeconfig.json
+/Users/mac/CSharpProject/oopsconcept/oopsconcept/bin/Debug/netcoreapp3.1/oopsconcept.runtimeconfig.dev.json
+/Users/mac/CSharpProject/oopsconcept/oopsconcept/bin/Debug/netcoreapp3.1/oopsconcept.dll
+/Users/mac/CSharpProject/oopsconcept/oopsconcept/bin/Debug/netcoreapp3.1/oopsconcept.pdb
+/Users/mac/CSharpProject/oopsconcept/oopsconcept/obj/Debug/netcoreapp3.1/oopsconcept.csprojAssemblyReference.cache
+/Users/mac/CSharpProject/oopsconcept/oopsconcept/obj/Debug/netcoreapp3.1/oopsconcept.AssemblyInfoInputs.cache
+/Users/mac/CSharpProject/oopsconcept/oopsconcept/obj/Debug/netcoreapp3.1/oopsconcept.AssemblyInfo.cs
+/Users/mac/CSharpProject/oopsconcept/oopsconcept/obj/Debug/netcoreapp3.1/oopsconcept.dll
+/Users/mac/CSharpProject/oopsconcept/oopsconcept/obj/Debug/netcoreapp3.1/oopsconcept.pdb

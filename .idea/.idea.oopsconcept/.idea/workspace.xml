@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="623416d1-8b72-4328-8656-fe0976791a8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/oopsconcept/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/oopsconcept/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f74GyyCj0KBNO8pAPg5TbKEOIC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager">
+    <configuration name="oopsconcept" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/oopsconcept/oopsconcept.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="623416d1-8b72-4328-8656-fe0976791a8d" name="Default Changelist" comment="" />
+      <created>1595555706034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595555706034</updated>
+      <workItem from="1595555707810" duration="174000" />
+      <workItem from="1595556478612" duration="1593000" />
+      <workItem from="1595558306788" duration="453000" />
+      <workItem from="1595649406212" duration="773000" />
+      <workItem from="1595661129885" duration="365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="184" key="GridCell.Tab.0.bottom" timestamp="1595650336952">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1595650336952" />
+    <state width="1238" height="184" key="GridCell.Tab.0.center" timestamp="1595650336951">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1595650336951" />
+    <state width="1238" height="184" key="GridCell.Tab.0.left" timestamp="1595650336951">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1595650336951" />
+    <state width="1238" height="184" key="GridCell.Tab.0.right" timestamp="1595650336952">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state width="1238" height="184" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1595650336952" />
+    <state x="240" y="130" key="Rider.ProjectTemplateDialog.Size" timestamp="1595555706391">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="240" y="130" key="Rider.ProjectTemplateDialog.Size/0.23.1280.736@0.23.1280.736" timestamp="1595555706391" />
+    <state x="303" y="80" key="search.everywhere.popup" timestamp="1595650276229">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="303" y="80" key="search.everywhere.popup/0.23.1280.736@0.23.1280.736" timestamp="1595650276229" />
+  </component>
+</project>
